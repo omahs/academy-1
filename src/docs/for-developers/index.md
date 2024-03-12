@@ -31,7 +31,7 @@ fetch the data. Detailed description and examples can be found on the [SanAPI pa
 The API can be consumed in a few different ways:
 
 - Using the [GraphiQL Live Explorer](https://api.santiment.net/graphiql) and
-  explore the API with included autocmplete and nice response formatting.
+  explore the API with included autocomplete and nice response formatting.
 - Using the `/graphql` API endpoint with `curl` directly from your terminal.
 - Using the `/graphql` API endpoint and construct requests in your preferred
   programming language.
@@ -44,10 +44,10 @@ On [Sanbase](/sanbase) the data from charts can be exported as a CSV file. ![san
 
 ## Analyzing Santiment Data
 
-Examples for different analysis based on Santiment data can be found on the
+Examples of different analysis based on Santiment data can be found on the
 [Education and use cases page](/education-and-use-cases)
 
 The are two types of examples included:
 
 - Code examples showing how to analyze the data and plot the results.
-- Descriptions how to use the tools provided by the Sanbase web application and interpret the results.
+- Descriptions on how to use the tools provided by the Sanbase web application and interpret the results.
